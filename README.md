@@ -121,3 +121,67 @@ A full-color page showing real property listings, navigation bars, filter button
 The wireframe used in this project is a High-Fidelity Wireframe.
 It includes color, text, icons, buttons, and layout precision, which makes it a detailed and accurate representation of the final user interface.
 This level of fidelity helps stakeholders visualize the product clearly and allows designers to test usability and visual consistency before full-scale development.
+
+🛠️ Wireframing Tools
+
+Wireframing tools help designers and developers create structured visual layouts efficiently, test ideas, and collaborate in real time. These tools provide predefined UI components, templates, and interactive features that simplify the wireframing process.
+
+🔸 Popular Wireframing Tools
+
+Figma
+
+A cloud-based design and prototyping tool that supports real-time collaboration.
+
+Ideal for creating both low-fidelity and high-fidelity wireframes.
+
+Enables designers, developers, and stakeholders to work together seamlessly on the same file.
+
+Adobe XD
+
+Provides advanced prototyping and vector design capabilities.
+
+Great for interactive mockups and design systems.
+
+Integrates well with other Adobe Creative Cloud tools.
+
+Sketch
+
+A macOS-based design tool focused on UI and UX design.
+
+Supports plugins for extended functionality and rapid wireframe creation.
+
+Balsamiq
+
+Known for its hand-drawn, sketch-style interface.
+
+Best suited for low-fidelity wireframes and early brainstorming sessions.
+
+Miro
+
+A collaborative whiteboard platform that supports brainstorming, flowcharts, and quick wireframe sketching.
+
+Great for remote teams exploring early-stage design ideas.
+
+⭐ Why Figma Is Recommended
+
+Figma stands out as one of the most powerful and accessible tools for modern UI/UX design. It’s particularly effective for wireframing due to its flexibility, collaboration features, and browser-based accessibility.
+
+Key Features of Figma:
+
+Real-time Collaboration: Multiple users can edit the same wireframe simultaneously.
+
+Cross-Platform Access: Works directly in the browser — no installation required.
+
+Component Reusability: Lets designers create reusable UI components for consistency.
+
+Version Control: Tracks design history and allows easy rollbacks.
+
+Prototyping Capabilities: Transforms static wireframes into interactive mockups for usability testing.
+
+Why It’s Useful for Wireframing:
+
+Figma accelerates the transition from concept to prototype.
+
+Its visual precision and ease of collaboration make it perfect for teams designing complex, user-centered interfaces.
+
+It ensures alignment between designers, developers, and stakeholders early in the product design process.
