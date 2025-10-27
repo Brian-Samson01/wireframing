@@ -65,3 +65,59 @@ Example: Interactive buttons, dropdown filters, and search bars in a property li
 🧠 Why These Elements Matter
 
 Together, these elements create the foundation of user experience (UX). A well-structured layout, intuitive navigation, clear content placement, and logical functionality ensure users can achieve their goals effortlessly while maintaining design clarity and consistency.
+
+
+🧱 Types of Wireframes
+
+Wireframes are categorized into two main types: Low-Fidelity and High-Fidelity.
+Each plays a unique role in visualizing and refining the user interface during the design process.
+
+🔹 Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple, grayscale sketches that outline the structure and basic layout of a page.
+They focus purely on functionality and content hierarchy — not visual design.
+
+Purpose:
+To visualize layout concepts quickly and gather early feedback.
+
+When to Use:
+During the initial planning and brainstorming stages of the design process.
+
+Characteristics:
+
+Minimal detail (often black and white).
+
+Placeholder text and images.
+
+Focus on structure, not aesthetics.
+
+Example:
+A rough sketch showing where the header, sidebar, and buttons might go.
+
+🔹 High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and visually rich representations that closely resemble the final product.
+They include color schemes, typography, icons, buttons, and actual content to simulate the real user experience.
+
+Purpose:
+To present the final structure and design aesthetics before moving to prototyping and development.
+
+When to Use:
+In the later stages of the design process, once layout and flow are validated.
+
+Characteristics:
+
+Includes actual fonts, colors, and UI components.
+
+Displays spacing, alignment, and interactive elements clearly.
+
+Often created in professional tools like Figma or Adobe XD.
+
+Example:
+A full-color page showing real property listings, navigation bars, filter buttons, and call-to-action elements — just like a working web page.
+
+💬 What Type of Wireframe Is Here
+
+The wireframe used in this project is a High-Fidelity Wireframe.
+It includes color, text, icons, buttons, and layout precision, which makes it a detailed and accurate representation of the final user interface.
+This level of fidelity helps stakeholders visualize the product clearly and allows designers to test usability and visual consistency before full-scale development.
